@@ -2,7 +2,7 @@
     "name": "weltpixel/magento2-weltpixel-mobiledetect",
     "description": "WeltPixel MobileDetect Module",
     "type": "magento2-module",
-    "version": "1.17.0",
+    "version": "1.17.5",
     "license": "MIT",
     "autoload": {
         "files": [
